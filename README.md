@@ -36,7 +36,7 @@ This Power BI project involves analyzing data from Maven Market, a multi-nationa
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/maven-market-power-bi.git
+    git clone https://github.com/Mohamed-Laymouna/maven-market-power-bi.git
     ```
 
 2. **Open the Power BI Report**:
