@@ -77,8 +77,4 @@ maven-market-power-bi/
 
 ## Contact
 
-For any questions or further information, feel free to reach out via [your email address] or connect with me on [LinkedIn](your LinkedIn profile link).
-
----
-
-Feel free to adjust the contact information, GitHub repository URL, and LinkedIn profile link as needed.
+For any questions or further information, feel free to reach out via [Mohamed.Laymouna@gmail.com].
