@@ -3,6 +3,10 @@
 
 This Power BI project involves analyzing data from Maven Market, a multi-national grocery chain with locations in Canada, Mexico, and the United States. The project encompasses the entire business intelligence workflow, including connecting and shaping data, building a relational model, adding calculated fields, and designing an interactive report. The goal is to provide insightful visualizations and analysis of Maven Market's operations and performance.
 
+## Report Screenshots
+![image](https://github.com/user-attachments/assets/d5f77424-0ca4-440c-8a2d-94de7391f264)
+
+
 ## Project Overview
 
 1. **Connecting and Shaping the Data**:
